@@ -25,3 +25,4 @@ local.settings.json
 package-lock.json
 node_modules/
 test-outputs/
+test*.xml
